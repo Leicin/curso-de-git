@@ -1,0 +1,18 @@
+git init -> iniciar git en el proyecto
+
+git add archivo -> el archivo que se va agregar
+
+
+git commit -m -> subir cambios
+
+git add . -> para agregar todos los arcgivos que se cambiaron
+
+git status -> para ver el estado del repositorio
+
+git show-> para ver todos los cambios que se han realizado
+
+git log archivo -> ver historia entera de un archivo
+
+git push -> subir cambios a un servidor
+
+---Descargar git
