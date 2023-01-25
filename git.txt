@@ -16,3 +16,5 @@ git log archivo -> ver historia entera de un archivo
 git push -> subir cambios a un servidor
 
 ---Descargar git
+
+ git config --global  user.name "Estiven" .. para cambiar el nombre para validar quien subio los cambios
