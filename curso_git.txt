@@ -27,6 +27,9 @@ git checkout El comando git checkout te permite desplazarte entre las ramas crea
 
 git pull -> bajar todos los cambios
 
+git branch nombre de la rama -> crear rama de desarrollo
+
+
 ---Descargar git
 
  git config --global  user.name "Estiven" .. para cambiar el nombre para validar quien subio los cambios
