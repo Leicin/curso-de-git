@@ -1,1 +1,29 @@
-Pruebas desarrollo de su vida de maestria a master
+git init -> iniciar git en el proyecto
+
+git add archivo -> el archivo que se va agregar
+
+
+git commit -m -> subir cambios
+
+git add . -> para agregar todos los arcgivos que se cambiaron
+
+git status -> para ver el estado del repositorio
+
+git show-> para ver todos los cambios que se han realizado
+
+git log archivo -> ver historia entera de un archivo
+
+git diff numero del commit -> ver cual fue el czmbio que se realizo en el archivo
+
+git push -> subir cambios a un servidor
+
+ git checkout te permite desplazarte entre las ramas creadas por git branch .
+
+---Descargar git
+
+ git config --global  user.name "Estiven" .. para cambiar el nombre para validar quien subio los cambios
+
+git reset -- resetiar los commit generados
+
+
+https://platzi.com/clases/1557-git-github/19946-que-es-el-staging-y-los-repositorios-ciclo-basico-/

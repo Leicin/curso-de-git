@@ -17,9 +17,15 @@ git show-> para ver todos los cambios que se han realizado
 
 git log archivo -> ver historia entera de un archivo
 
+git log --stat -> ver numero de cambios en los archivos
+
 git diff numero del commit -> ver cual fue el czmbio que se realizo en el archivo
 
 git push -> subir cambios a un servidor
+
+git checkout El comando git checkout te permite desplazarte entre las ramas creadas por git branch .
+
+git pull -> bajar todos los cambios
 
 ---Descargar git
 
