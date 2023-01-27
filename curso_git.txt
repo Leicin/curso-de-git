@@ -29,10 +29,18 @@ git pull -> bajar todos los cambios
 
 git branch nombre de la rama -> crear rama de desarrollo
 
+git merge -> juntar todos los cambios de la rama en una sola, la rama principal es donde se hace el marge
+
+git branch -> ramas existentes
+
+git merge (cabecera) nombre estar en rama master preferiblemente
+
 
 ---Descargar git
 
  git config --global  user.name "Estiven" .. para cambiar el nombre para validar quien subio los cambios
+
+
 
 
 https://platzi.com/clases/1557-git-github/19946-que-es-el-staging-y-los-repositorios-ciclo-basico-/
