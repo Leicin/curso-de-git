@@ -42,5 +42,4 @@ git merge (cabecera) nombre estar en rama master preferiblemente
 
 
 
-
-https://platzi.com/clases/1557-git-github/19946-que-es-el-staging-y-los-repositorios-ciclo-basico-/
+https://platzi.com/clases/1557-git-github/19941-resolucion-de-conflictos-al-hacer-un-merge/
