@@ -1,6 +1,4 @@
-pruebas de git para subir al repositorio master ultima version
 
-En camra parece algo
 
 git init -> iniciar git en el proyecto
 
@@ -25,7 +23,7 @@ git push -> subir cambios a un servidor
 
 git checkout El comando git checkout te permite desplazarte entre las ramas creadas por git branch .
 
-git pull -> bajar todos los cambios
+git pull origin (rama) -> bajar todos los cambios
 
 git branch nombre de la rama -> crear rama de desarrollo
 
@@ -39,6 +37,14 @@ git merge (cabecera) nombre estar en rama master preferiblemente
 ---Descargar git
 
  git config --global  user.name "Estiven" .. para cambiar el nombre para validar quien subio los cambios
+
+
+---------------------------------------------------------------
+
+
+configurar clave publica
+
+ ssh-keygen -t rsa -b 4096 -C "pereitha99@hotmail.com"
 
 
 
