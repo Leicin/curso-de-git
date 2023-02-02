@@ -26,4 +26,4 @@ git push -> subir cambios a un servidor
 git reset -- resetiar los commit generados
 
 
-https://platzi.com/clases/1557-git-github/19946-que-es-el-staging-y-los-repositorios-ciclo-basico-/
+curso avanzado de platzi leicin
