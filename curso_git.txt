@@ -33,10 +33,18 @@ git branch -> ramas existentes
 
 git merge (cabecera) nombre estar en rama master preferiblemente
 
+ git log --all --graph --decorate --oneline ver cambios de un proyecto desde que empezo
+
+ git tag -a v0.1 -m "resultado primeras clases" numero de commit agregar version a cada commit subido
+
+
+
 
 ---Descargar git
 
  git config --global  user.name "Estiven" .. para cambiar el nombre para validar quien subio los cambios
+
+
 
 
 ---------------------------------------------------------------
@@ -48,4 +56,4 @@ configurar clave publica
 
 
 
-https://platzi.com/clases/1557-git-github/19941-resolucion-de-conflictos-al-hacer-un-merge/
+https://platzi.com/clases/1557-git-github/19952-tags-y-versiones-en-git-y-github/
