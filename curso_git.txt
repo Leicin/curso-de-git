@@ -37,6 +37,10 @@ git merge (cabecera) nombre estar en rama master preferiblemente
 
  git tag -a v0.1 -m "resultado primeras clases" numero de commit agregar version a cada commit subido
 
+ git tag -d nombre del tag eliminar un tag
+
+ gitk ver cambios en el panel
+
 
 
 
