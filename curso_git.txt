@@ -41,6 +41,8 @@ git merge (cabecera) nombre estar en rama master preferiblemente
 
  gitk ver cambios en el panel
 
+ git ignore ignorar archivos que no quiero subir al repositorio
+
 
 
 
@@ -60,4 +62,4 @@ configurar clave publica
 
 
 
-https://platzi.com/clases/1557-git-github/19952-tags-y-versiones-en-git-y-github/
+https://platzi.com/clases/1557-git-github/19975-git-rebase-reorganizando-el-trabajo-realizado/gi
